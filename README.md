@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-#3776AB?style=flat-badge&logo=Python&logoColor=white"/></a> &nbsp
 
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuio-0528&show_icons=true&theme=dracula)
+<img src = "https://github-readme-stats.vercel.app/api?username=xuio-0528&show_icons=true&theme=dracula"/>
