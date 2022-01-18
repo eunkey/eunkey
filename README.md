@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Eunki_Kim%20render&fontSize=50)
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/81913386/149950363-c2174677-47fb-43cf-bbc8-de2b209ac5ef.gif" width = "30%">
+<img src = "https://user-images.githubusercontent.com/81913386/149950363-c2174677-47fb-43cf-bbc8-de2b209ac5ef.gif" width = "80%">
 
 
 <h3 align="center"><b> 🖥 Tech Stack 💻 </b></h3></br>
