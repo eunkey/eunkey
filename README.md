@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Eunki_Kim%20render&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=EunkiKim%20render&fontSize=50)
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/81913386/149950363-c2174677-47fb-43cf-bbc8-de2b209ac5ef.gif" width = "80%">
 
