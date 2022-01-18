@@ -21,6 +21,14 @@ Here are some ideas to get you started:
 <h3 align="center"><b> 🖥 Tech Stack 💻 </b></h3></br>
 <img src="https://img.shields.io/badge/Python-#3776AB?style=flat-badge&logo=Python&logoColor=white"/></a> &nbsp
 
+
+<h3 align="center"><b>✨ Contact ✨</b></h3></br>
+<p align="center">	
+<a href="https://www.facebook.com/profile.php?id=100005777942019"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-badge&logo=facebook&logoColor=white"/></a> &nbsp <a href="https://www.instagram.com/rlo_7l_/?hl=ko"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> <br>
+<a href="https://www.notion.so/59bf212d921d496a9fc96d226a9d771d"> <img src="https://img.shields.io/badge/Notion-#000000?style=flat-badge&logo=notion&logoColor=white"/></a>
+
+
+
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=xuio-0528&show_icons=true&theme=dracula"/>
 <p align="center">
