@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Eunki_Kim%20render&fontSize=50)
 <p align="center">
-![다운로드](https://user-images.githubusercontent.com/81913386/149947086-89539c66-1bd7-49a5-999c-02535bda2cb6.gif)
+![jordan-pak-lofi](https://user-images.githubusercontent.com/81913386/149950363-c2174677-47fb-43cf-bbc8-de2b209ac5ef.gif)
+
 
 <h3 align="center"><b> 🖥 Tech Stack 💻 </b></h3></br>
 <img src="https://img.shields.io/badge/Python-#3776AB?style=flat-badge&logo=Python&logoColor=white"/></a> &nbsp
