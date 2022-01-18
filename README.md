@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Eunki_Kim%20render&fontSize=50)
 <div align="center">
 ![다운로드](https://user-images.githubusercontent.com/81913386/149947086-89539c66-1bd7-49a5-999c-02535bda2cb6.gif)
-<div>
+</div>
