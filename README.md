@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center"><b> 🖥 Tech Stack 💻 </b></h3></br>
-<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-badge&logo=Python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=Python&logoColor=white"/></a> &nbsp
 
 
 <h3 align="center"><b>✨ Contact ✨</b></h3></br>
