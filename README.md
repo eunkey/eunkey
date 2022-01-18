@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 <h3 align="center"><b> 🖥 Tech Stack 💻 </b></h3></br>
 <img src="https://img.shields.io/badge/Python-#3776AB?style=flat-badge&logo=Python&logoColor=white"/></a> &nbsp
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
