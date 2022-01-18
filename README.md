@@ -34,6 +34,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-badge&logo=adobephotoshop&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Premiere-9999FF?style=flat-badge&logo=adobepremierepro&logoColor=white"/></a> &nbsp 
  
+<h3 align="center"><b🛠 Tools🛠</b></h3></br>
+<p align="center">	
+<a href="https://visualstudio.microsoft.com/ko/"> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white"/></a> &nbsp
+<a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/></a> &nbsp 
+<a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/></a>  &nbsp
+<a href="https://www.eclipse.org/downloads/"> <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-badge&logo=eclipse&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-badge&logo=intellijidea&logoColor=white"/></a> &nbsp 
+<a href="https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows"> <img src="https://img.shields.io/badge/PyCharm-48A842?style=flat-badge&logo=pycharm&logoColor=white"/></a>  &nbsp
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-badge&logo=macos&logoColor=white"/></a>
 
 
 <h3 align="center"><b>✨ Contact ✨</b></h3></br>
