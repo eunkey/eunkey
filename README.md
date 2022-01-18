@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-badge&logo=adobephotoshop&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Premiere-9999FF?style=flat-badge&logo=adobepremierepro&logoColor=white"/></a> &nbsp 
  
-<h3 align="center"><b🛠 Tools🛠</b></h3></br>
+<h3 align="center"><b>🛠 Tools🛠</b></h3></br>
 <p align="center">	
 <a href="https://visualstudio.microsoft.com/ko/"> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white"/></a> &nbsp
 <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/></a> &nbsp 
