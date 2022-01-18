@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-badge&logo=scikit-learn&logoColor=white"/></a> &nbsp 
 <a href="https://www.java.com/ko/"> <img src="https://img.shields.io/badge/Java-CC3D3D?style=flat-badge&logo=java&logoColor=withe"/></a> &nbsp 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-badge&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-badge&logo=c++&logoColor=white"/></a> </br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-badge&logo=HTML5&logoColor=white"/></a> &nbsp 
