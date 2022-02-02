@@ -1,8 +1,5 @@
 <p align="center">
-Want to be Data Engineer / Analyst
-
-<!--
-**xuio-0528/xuio-0528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Want to be Data Engineer / Analyst
 
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/81913386/149950363-c2174677-47fb-43cf-bbc8-de2b209ac5ef.gif" width = "80%">
