@@ -1,21 +1,17 @@
+<p align="center">
 # Want to be Data Engineer / Analyst
 
 <!--
 **xuio-0528/xuio-0528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/81913386/149950363-c2174677-47fb-43cf-bbc8-de2b209ac5ef.gif" width = "80%">
+
+<p align="center">
+##My Velog
+<a href="https://velog.io/@xuio/">
+<img src = "https://user-images.githubusercontent.com/81913386/152174475-0cf1245b-f078-4966-a074-cbec9ee5ca95.png">
+
 
 
 <h3 align="center"><b> 🖥 Tech Stack 💻 </b></h3></br>
