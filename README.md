@@ -1,5 +1,5 @@
 <p align="center">
-# Want to be Data Engineer / Analyst
+Want to be Data Engineer / Analyst
 
 <!--
 **xuio-0528/xuio-0528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
