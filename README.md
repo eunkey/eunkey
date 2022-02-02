@@ -8,7 +8,7 @@
 # My Velog
 <p align="center">
 <a href="https://velog.io/@xuio/">
-<img src = "https://user-images.githubusercontent.com/81913386/152176149-c130ce03-ac05-4da3-9ffd-386a0ed49863.png" width = "80%">
+<img src = "https://user-images.githubusercontent.com/81913386/152176149-c130ce03-ac05-4da3-9ffd-386a0ed49863.png" width = "60%">
 </p>
 
 
