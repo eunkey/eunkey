@@ -3,12 +3,13 @@
 
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/81913386/149950363-c2174677-47fb-43cf-bbc8-de2b209ac5ef.gif" width = "80%">
+</p>
 
+# My Velog
 <p align="center">
-##My Velog
 <a href="https://velog.io/@xuio/">
-<img src = "https://user-images.githubusercontent.com/81913386/152174475-0cf1245b-f078-4966-a074-cbec9ee5ca95.png">
-
+<img src = "https://user-images.githubusercontent.com/81913386/152174475-0cf1245b-f078-4966-a074-cbec9ee5ca95.png" width = "80%">
+</p>
 
 
 <h3 align="center"><b> 🖥 Tech Stack 💻 </b></h3></br>
