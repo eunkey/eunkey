@@ -35,7 +35,6 @@
 <a href="https://www.eclipse.org/downloads/"> <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-badge&logo=eclipse&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-badge&logo=intellijidea&logoColor=white"/></a> &nbsp 
 <a href="https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows"> <img src="https://img.shields.io/badge/PyCharm-48A842?style=flat-badge&logo=pycharm&logoColor=white"/></a>  &nbsp
-<img src="https://img.shields.io/badge/macOS-000000?style=flat-badge&logo=macos&logoColor=white"/></a>
 
 
 <h3 align="center"><b>✨ Contact ✨</b></h3></br>
