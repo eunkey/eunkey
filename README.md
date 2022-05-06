@@ -8,8 +8,10 @@
 # My Velog
 <p align="center">
 <a href="https://velog.io/@xuio/">
-<img src = "https://user-images.githubusercontent.com/81913386/152176149-c130ce03-ac05-4da3-9ffd-386a0ed49863.png" width = "60%">
+<img width="659" alt="image" src="https://user-images.githubusercontent.com/81913386/167051294-7813ce7e-c0d2-4f30-b2aa-e4ed3b27c420.png">
 </p>
+
+
 
 
 <h3 align="center"><b> 🖥 Tech Stack 💻 </b></h3></br>
