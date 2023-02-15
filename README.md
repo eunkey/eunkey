@@ -1,49 +1,154 @@
 
-# Want to be Data Engineer / Analyst⭐️
+# Data Engineer / Analyst
 
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/81913386/149950363-c2174677-47fb-43cf-bbc8-de2b209ac5ef.gif" width = "80%">
 </p>
 
-# My Velog
-<p align="center">
-<a href="https://velog.io/@xuio/">
-<img width="659" alt="image" src="https://user-images.githubusercontent.com/81913386/167051294-7813ce7e-c0d2-4f30-b2aa-e4ed3b27c420.png">
-</p>
+# 김은기, 항상 해내는 개발자
+
+## 🚀 **About Me( or 저에 대하여)**
+
+
+📫 E-mail : sus5467@naver.com
+
+📥 Github : 🖱[Github](https://github.com/xuio-0528)
+
+💻 Velog : 📎[Velog](https://velog.io/@xuio)
+
+📞 Phone : 010-4909-4946
+
+💡 IDE와 영상 편집 프로그램만 있다면 무엇이든 만들 수 있다는 포부를 갖고 있는 AI 엔지니어 김은기입니다.
+
+💡 도전과 경험을 즐기고 끊임없이 새로운 것을 추구합니다.
+💡 사람을 좋아하고 소통과 협업을 즐깁니다.
+
+
+### 🎓 ****Education
+
+### 고려대학교(재학)
+
+- **주전공 : 컴퓨터학과**
+- **이중전공 : 노어노문학과**
+
+2017.03 - 2024.02 / 졸업 예정
+
+**GPA.**  4.4 / 4.5 (98.9/100) 
+
+**Major GPA.**  4.24 / 4.5
+
+**Scholarship.** 매 학기 고려대학교 최우등생 표창 수상
+
+### 🏢 Experience
+
+### Language & Data Intelligence Lab. SNU. Research Intern
+
+### LG AI Research
+
+Language Lab Text Analytics Team
+
+Internship
+
+2022. 08 ~ 2023. 02
+
+### Generation 기반 Span Prediction and NER 연구 보조
+
+EMNLP2023 Submit 예정
+
+Generation Model을 토대로 명사구를 추출하고 이를 prompt로 만들어 NER 진행
+
+### **QA 기반 Ko-BERT PLM 연구**
+
+From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader 한국어 버전 모델 PLM 연구 진행
+
+
+### **AICC(A.I. Contact Center) 과제 수행**
+
+STT text 기반 127개의 Class로 **상담 유형 분류**
+
+대화 내 **VOC 포함 여부 분류** 및 320개의 Class로 **VOC 유형 분류**
+
+**Sentiment Analysis** 3단계 분류
+
+
+### ✏️ **Extracurricular**
+
+### [NAVER AI TECH Boostcamp](https://www.notion.so/ee6f391eeca942a5b24dfbe5ba334871) **교육**
+
+NLP 트랙 선발
+
+2022.03 - 2022.06
+
+- 곰파다 - 서술형 자동 채점 시스템
+- Open-Domain Question Answering
+- Relation Extraction
+
+---
+
+### CodePresso 인공지능 기초
+
+2021.11 - 2022.02
 
 
 
+## 📃 Competition & Projects
 
-<h3 align="center"><b> 🖥 Tech Stack 💻 </b></h3></br>
-<p align="center">
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-badge&logo=scikit-learn&logoColor=white"/></a> &nbsp 
-<a href="https://www.java.com/ko/"> <img src="https://img.shields.io/badge/Java-CC3D3D?style=flat-badge&logo=java&logoColor=withe"/></a> &nbsp 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=mysql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-badge&logo=c&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-badge&logo=c++&logoColor=white"/></a> </br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-badge&logo=HTML5&logoColor=white"/></a> &nbsp 
-<a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-badge&logo=git&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=JavaScript&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-badge&logo=CSS3&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/></a> &nbsp </br>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-badge&logo=adobephotoshop&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Premiere-9999FF?style=flat-badge&logo=adobepremierepro&logoColor=white"/></a> &nbsp 
- 
-<h3 align="center"><b>🛠 Tools🛠</b></h3></br>
-<p align="center">	
-<a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/></a> &nbsp 
-<a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/></a>  &nbsp
-<a href="https://www.eclipse.org/downloads/"> <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-badge&logo=eclipse&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-badge&logo=intellijidea&logoColor=white"/></a> &nbsp 
-<a href="https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows"> <img src="https://img.shields.io/badge/PyCharm-48A842?style=flat-badge&logo=pycharm&logoColor=white"/></a>  &nbsp
+### 🍀 NAVER AI 부스트캠프 Competition & Projects
 
+### 📌 곰파다
 
-<h3 align="center"><b>✨ Contact ✨</b></h3></br>
-<p align="center">	
-<a href="https://www.facebook.com/profile.php?id=100005777942019"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-badge&logo=facebook&logoColor=white"/></a> &nbsp <a href="https://www.instagram.com/rlo_7l_/?hl=ko"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.notion.so/59bf212d921d496a9fc96d226a9d771d"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-badge&logo=notion&logoColor=white"/></a>
+키워드 및 유사도 기반 서술형 자동채점 시스템
+
+22.05.16 ~ 22.06.15
+
+깃헙 레포 : https://github.com/boostcampaitech3/final-project-level3-nlp-03
+
+프로젝트 노션 : 
+
+[프로젝트 : 곰파다](https://www.notion.so/81d51502741d4856b7661a5e8d9696c3)
+
+---
+
+### 🇰🇷 KLUE ODQA
+
+22.04.25 ~ 22.05.12
+
+깃헙 레포 : [github](https://github.com/boostcampaitech3/level2-mrc-level2-nlp-03)
+
+결과 보고서 :  
+
+[팀회고](https://www.notion.so/56bf87b225f740209ddb7b52d385ce7e)
 
 
+---
 
-<p align="center">
-<img src = "https://github-readme-stats.vercel.app/api?username=xuio-0528&show_icons=true&theme=dracula"/>
+### 🇰🇷 KLUE R.E.
+
+22.03.21 ~ 22.04.07
+
+깃헙 레포 : [github](https://github.com/boostcampaitech3/level2-klue-level2-nlp-03)
+
+---
+
+### 🛠 R.E(관계추출) 데이터 제작
+
+22.04.11 ~ 22.04.22
+
+깃헙 레포 : [github](https://github.com/boostcampaitech3/level2-data-annotation_nlp-level2-nlp-03)
+
+
+---
+
+### 🖥 School Projects
+
+### 🛝 PlayKUround
+
+깃헙 레포 : [github](https://github.com/kucc/KUCC-PlayKUround)
+
+
+## 🏆 **AWARDS**
+
+### K-ICT 빅데이터 캠프 최우수상(2등)
+
+- 과기부, NIA 주관
+- 2021.10.
