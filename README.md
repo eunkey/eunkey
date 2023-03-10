@@ -18,9 +18,9 @@
 
 ### 고려대학교(재학)
 
-- **주전공 : 컴퓨터학과**
-- 2017.03 - 2024.02 / 졸업 예정
-- **GPA.**  4.4 / 4.5 (98.9/100) 
+**주전공 : 컴퓨터학과**
+2017.03 - 2024.02 / 졸업 예정
+**GPA.**  4.4 / 4.5 (98.9/100) 
 **- Major GPA.**  4.24 / 4.5
 
 ### 🏢 Experience
@@ -28,10 +28,9 @@
 ### Language & Data Intelligence Lab. SNU. Research Intern
 
 ### LG AI Research
-
-- Language Lab Text Analytics Team
-- Internship
-- 22. 08. ~ 23. 02.
+Language Lab Text Analytics Team
+Internship
+22. 08. ~ 23. 02.
 
 #### Generation 기반 Span Prediction and NER 연구 보조
 
@@ -52,11 +51,11 @@
 
 ### [NAVER AI TECH Boostcamp](https://www.notion.so/ee6f391eeca942a5b24dfbe5ba334871) **교육**
 
-- NLP 트랙 선발
-- 2022.03 - 2022.06
-- 곰파다 - 서술형 자동 채점 시스템
-- Open-Domain Question Answering
-- Relation Extraction
+NLP 트랙 선발
+2022.03 - 2022.06
+곰파다 - 서술형 자동 채점 시스템
+Open-Domain Question Answering
+Relation Extraction
 
 ---
 
