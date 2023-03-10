@@ -14,7 +14,7 @@
 💻 Velog : 📎[Velog](https://velog.io/@xuio)
 
 
-### 🎓 **Education**
+## 🎓 **Education**
 
 ### 고려대학교(재학)
 
@@ -31,24 +31,24 @@
 
 - Language Lab Text Analytics Team
 - Internship
-- 2022. 08 ~ 2023. 02
+- 22. 08 ~ 23. 02
 
-### Generation 기반 Span Prediction and NER 연구 보조
+#### Generation 기반 Span Prediction and NER 연구 보조
 
 - EMNLP2023 Submit 예정
 - Generation Model을 토대로 명사구를 추출하고 이를 prompt로 만들어 NER 진행
 
-### **QA 기반 Ko-BERT PLM 연구**
+#### **QA 기반 Ko-BERT PLM 연구**
 
 - From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader 한국어 버전 모델 PLM 연구 진행
 
-### **AICC(A.I. Contact Center) 과제 수행**
+#### **AICC(A.I. Contact Center) 과제 수행**
 
 - STT text 기반 127개의 Class로 **상담 유형 분류**
 - 대화 내 **VOC 포함 여부 분류** 및 320개의 Class로 **VOC 유형 분류**
 - **Sentiment Analysis** 3단계 분류
 
-### ✏️ **Extracurricular**
+## ✏️ **Extracurricular**
 
 ### [NAVER AI TECH Boostcamp](https://www.notion.so/ee6f391eeca942a5b24dfbe5ba334871) **교육**
 
@@ -104,4 +104,4 @@
 ### K-ICT 빅데이터 캠프 최우수상(2등)
 
 - 과기부, NIA 주관
-- 2021.10.
+- 21.10.
