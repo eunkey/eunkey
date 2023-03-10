@@ -29,7 +29,9 @@
 
 ### LG AI Research
 Language Lab Text Analytics Team
+
 Internship
+
 22. 08. ~ 23. 02.
 
 #### Generation 기반 Span Prediction and NER 연구 보조
@@ -52,10 +54,11 @@ Internship
 ### [NAVER AI TECH Boostcamp](https://www.notion.so/ee6f391eeca942a5b24dfbe5ba334871) **교육**
 
 NLP 트랙 선발
+
 2022.03 - 2022.06
-곰파다 - 서술형 자동 채점 시스템
-Open-Domain Question Answering
-Relation Extraction
+- 곰파다 - 서술형 자동 채점 시스템
+- Open-Domain Question Answering
+- Relation Extraction
 
 ---
 
