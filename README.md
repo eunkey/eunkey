@@ -31,7 +31,7 @@
 
 - Language Lab Text Analytics Team
 - Internship
-- 22. 08 ~ 23. 02
+- 22. 08. ~ 23. 02.
 
 #### Generation 기반 Span Prediction and NER 연구 보조
 
