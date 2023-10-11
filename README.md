@@ -7,7 +7,7 @@
 
 # 김은기, 항상 해내는 개발자
 
-📫 E-mail : sus5467@naver.com
+📫 E-mail : eunki0528@gmail.com
 
 📥 Github : 🖱[Github](https://github.com/xuio-0528)
 
