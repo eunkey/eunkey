@@ -9,7 +9,7 @@
 
 📫 E-mail : eunki0528@gmail.com
 
-📥 Github : 🖱[Github](https://github.com/xuio-0528)
+📥 Github : 🖱[Github](https://github.com/eunkey)
 
 💻 Velog : 📎[Velog](https://velog.io/@xuio)
 
