@@ -2,7 +2,6 @@
 # Data Engineer / Analyst
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/81913386/149950363-c2174677-47fb-43cf-bbc8-de2b209ac5ef.gif" width = "80%">
 </p>
 
 # 김은기, 항상 해내는 개발자
