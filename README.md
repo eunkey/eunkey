@@ -5,7 +5,7 @@
 
 📫 E-mail : eunkikim@kaist.ac.kr
 
-📄 Portfolio : 🖱 [Site](https://eunkikim.notion.site/?source=copy_link)
+📃 Portfolio : 🖱 [Site](https://eunkikim.notion.site/?source=copy_link)
 
 🔗 Linkedin : 📎 [Linkedin](https://www.linkedin.com/in/eunki-kim-6a0b182b8/)
 
