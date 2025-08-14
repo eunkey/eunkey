@@ -1,5 +1,3 @@
-# AI Engineer / Scientist
-
 <p align="center">
 </p>
 
