@@ -5,9 +5,9 @@
 
 📫 E-mail : eunkikim@kaist.ac.kr
 
-📥 Github : 🖱 [Github](https://github.com/xuio-0528)
+📄 Portfolio : 🖱 [Site](https://eunkikim.notion.site/?source=copy_link)
 
-💻 Velog : 📎 [Velog](https://velog.io/@xuio)
+🔗 Linkedin : 📎 [Linkedin](https://www.linkedin.com/in/eunki-kim-6a0b182b8/)
 
 
 ## 🎓 **Education**
