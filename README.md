@@ -1,108 +1,82 @@
-
-# Data Engineer / Analyst
+# AI Engineer / Scientist
 
 <p align="center">
 </p>
 
-# 김은기, 항상 해내는 개발자
+# Eunki Kim — AI Researcher & Engineer
 
-📫 E-mail : eunki0528@gmail.com
+📫 E-mail : eunkikim@kaist.ac.kr
 
-📥 Github : 🖱[Github](https://github.com/eunkey)
+📥 Github : 🖱 [Github](https://github.com/xuio-0528)
 
-💻 Velog : 📎[Velog](https://velog.io/@xuio)
+💻 Velog : 📎 [Velog](https://velog.io/@xuio)
 
 
-## 🎓 **Education**
+## 🎓 **Education**
 
-### 고려대학교(재학)
+### KAIST AI Graduate School — M.S. in Artificial Intelligence
+- 2024.03 - 2025.12
+- **Lab.** CVML Lab
 
- - **주전공 : 컴퓨터학과**
- - 2017.03 - 2024.02 / 졸업 예정
- - **GPA.**  4.4 / 4.5 (98.9/100) 
- - **Major GPA.**  4.24 / 4.5
+### Korea University — B.S. in Computer Science
+- 2017.03 - 2024.02
+- **GPA.** 4.4 / 4.5 (98.9/100) 
+- **Major GPA.** 4.35 / 4.5
+- **Scholarship.** Received KU’s Best Student Award every semester
 
-### 🏢 Experience
+## 📃 **Selected Publications**
 
-### Language & Data Intelligence Lab. SNU. Research Intern
+- **I0T: Embedding Standardization Method Toward Zero Modality Gap**  
+  *ACL 2025 Main (Oral), Outstanding Paper* — arXiv: [2412.14384](https://arxiv.org/abs/2412.14384)
 
-### LG AI Research
-Language Lab Text Analytics Team
+- **Learning to Insert [PAUSE] Tokens for Better Reasoning**  
+  *ACL 2025 Findings* — arXiv: [2506.03616](https://arxiv.org/abs/2506.03616)
 
-Internship
+- **Sightation Counts: BLV-aligned Dataset of Diagram Descriptions**  
+  *ACL 2025 Main* — arXiv: [2503.13369](https://arxiv.org/abs/2503.13369)
 
-2022.08. - 2023.02.
+- **On the Robustness of Reward Models for LM Alignment**  
+  *ICML 2025* — arXiv: [2505.07271](https://arxiv.org/abs/2505.07271)
 
-#### Generation 기반 Span Prediction and NER 연구 보조
 
-- EMNLP2023 Submit 예정
-- Generation Model을 토대로 명사구를 추출하고 이를 prompt로 만들어 NER 진행
+## 🏢 **Experience**
 
-#### **QA 기반 Ko-BERT PLM 연구**
+### Language & Data Intelligence Lab, SNU — Research Intern
+2023.03 - 2023.08
+- Researched code generation verification using partial correctness evidence from variable states
+- Designed blocking techniques and resampling methods leveraging partially correct code segments
 
-- From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader 한국어 버전 모델 PLM 연구 진행
+### LG AI Research — Language Lab Text Analytics Squad (Intern)
+2022.08 - 2023.02
+- **AICC (AI Contact Center):** Modeled hierarchical autoregressive classifiers for 127 consultation types & 320 VOC types, implemented advanced loss functions, and applied curriculum learning
+- **Generation Span Prediction & NER:** Extracted noun phrases from generation models, converted them into NER prompts, and built datasets
+- **Ko-BERT QA PLM:** Pre-trained and domain-adapted Ko-BERT for QA tasks, creating datasets from multiple sources
 
-#### **AICC(A.I. Contact Center) 과제 수행**
 
-- STT text 기반 127개의 Class로 **상담 유형 분류**
-- 대화 내 **VOC 포함 여부 분류** 및 320개의 Class로 **VOC 유형 분류**
-- **Sentiment Analysis** 3단계 분류
+## ✏️ **Extracurricular**
 
-## ✏️ **Extracurricular**
+### Google Developer Student Club Korea Univ. (KUGODS) — Core Member
+2023.02 - 2023.06
+- Built **ALDA**, an interactive diary app for Alzheimer’s patients using ChatGPT, Whisper, and DALL·E
+- Led prompt tuning and API development with Django
 
-### [NAVER AI TECH Boostcamp](https://www.notion.so/ee6f391eeca942a5b24dfbe5ba334871) **교육**
-
-NLP 트랙 선발
-
+### NAVER AI TECH Boostcamp — NLP Track
 2022.03 - 2022.06
-- 곰파다 - 서술형 자동 채점 시스템
-- Open-Domain Question Answering
-- Relation Extraction
+- Competed in ODQA, Relation Extraction, and descriptive scoring competitions/projects
+- Developed **Gompada**, a keyword & similarity-based descriptive answer scoring system
 
----
+### Korea Univ. Big Data Academic Society (KUBIG) — Management & Mentor
+2022.06 - 2022.12
+- Led paper review sessions on CV topics and participated in DACON competitions
 
-### CodePresso 인공지능 기초
+### Korea Univ. Computer Club — Management & Mentor
+2021.02 - 2023.06
+- Lectured AI sessions for three semesters and led multiple projects
 
-- 2021.11 - 2022.02
 
-## 📃 Competition & Projects
+## 🏆 **Awards**
 
-### 🍀 NAVER AI 부스트캠프 Competition & Projects
-
-### 📌 곰파다
-
-- 키워드 및 유사도 기반 서술형 자동채점 시스템
-- 22.05.16 ~ 22.06.15
-- 깃헙 레포 : https://github.com/boostcampaitech3/final-project-level3-nlp-03
-- 프로젝트 노션 : [프로젝트 : 곰파다](https://www.notion.so/81d51502741d4856b7661a5e8d9696c3)
----
-### 🇰🇷 KLUE ODQA
-
-- 22.04.25 ~ 22.05.12
-- 깃헙 레포 : [github](https://github.com/boostcampaitech3/level2-mrc-level2-nlp-03)
-- 결과 보고서 :  [팀회고](https://www.notion.so/56bf87b225f740209ddb7b52d385ce7e)
----
-### 🇰🇷 KLUE R.E.
-
-- 22.03.21 ~ 22.04.07
-- - 깃헙 레포 : [github](https://github.com/boostcampaitech3/level2-klue-level2-nlp-03)
----
-
-### 🛠 R.E(관계추출) 데이터 제작
-
-- 22.04.11 ~ 22.04.22
-- 깃헙 레포 : [github](https://github.com/boostcampaitech3/level2-data-annotation_nlp-level2-nlp-03)
----
-
-### 🖥 School Projects
-
-### 🛝 PlayKUround
-
-- 깃헙 레포 : [github](https://github.com/kucc/KUCC-PlayKUround)
-
-## 🏆 **AWARDS**
-
-### K-ICT 빅데이터 캠프 최우수상(2등)
-
-- 과기부, NIA 주관
-- 21.10.
+- **K-ICT Big Data Camp — 2nd Prize** (2021.10) — Ministry of Science & Technology, NIA
+- **TORFEL** 1st Grade (2020.08)
+- **KBS Korean Proficiency Test** Top 3.36% (2019.08)
+- **KU CORE Business Group Hyundai–Samsung Planning Excellence Award** (2018.08)
