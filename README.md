@@ -13,8 +13,9 @@
 ## 🎓 **Education**
 
 ### KAIST AI Graduate School — M.S. in Artificial Intelligence
-- 2024.03 - 2025.12
-- **Lab.** CVML Lab
+- 2024.03 - 2026.02 (Expected)
+- **GPA.** 3.81 / 4.3 (95.1/100) 
+- **Lab.** CVML Lab, XFACT Lab
 
 ### Korea University — B.S. in Computer Science
 - 2017.03 - 2024.02
@@ -36,6 +37,11 @@
 - **On the Robustness of Reward Models for LM Alignment**  
   *ICML 2025* — arXiv: [2505.07271](https://arxiv.org/abs/2505.07271)
 
+- **Multi-Objective Task-Aware Predictor for Image-Text Alignment**  
+  *Preprint* — arXiv: [2510.00766v1](https://arxiv.org/abs/2510.00766v1)
+
+- **How Blind and Low-Vision Individuals Prefer Large Vision-Language Model-Generated Scene Descriptions**  
+  *Preprint* — arXiv: [2502.14883](https://arxiv.org/abs/2502.14883)
 
 ## 🏢 **Experience**
 
@@ -74,6 +80,7 @@
 
 ## 🏆 **Awards**
 
+- **Outstanding Paper** (2025.08) - ACL '25, I0T: Embedding Standardization Method Toward Zero Modality Gap
 - **K-ICT Big Data Camp — 2nd Prize** (2021.10) — Ministry of Science & Technology, NIA
 - **TORFEL** 1st Grade (2020.08)
 - **KBS Korean Proficiency Test** Top 3.36% (2019.08)
